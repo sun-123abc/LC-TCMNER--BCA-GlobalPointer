@@ -67,6 +67,10 @@ sentencepiece==0.1.99
 accelerate==0.25.0
 ```
 
+```
+checkpoints内容过大无法上传，建议运行方式从model1开始，最后运行BCA-GlobalPointer
+```
+
 ## 声明
 
 本项目仅供学术研究使用。
